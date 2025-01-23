@@ -90,6 +90,9 @@
 
 [Rubick Plugin CLI](https://github.com/rubickCenter/rubick-plugin-cli)
 
+## 局限性
+npm包最终大小不宜超过100MB,所以插件包大小也不宜超过此大小,建议20MB以内,如果包体积过大,预期会导致推送npm仓库失败
+
 ## 赞助
 ### 1. 加入知识星球
 我们在知识星球积累了大量的关于 rubick 的知识和常见问题，您可以付费加入我们的知识星球来一起讨论。我们将随时解答！
